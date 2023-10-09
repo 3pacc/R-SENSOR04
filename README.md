@@ -1,8 +1,8 @@
 
-# R-SENSOR04 using ARDUINO
+# <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> R-SENSOR04
 
 THE R-SENSOR04 PROJECT IS A SECURITY TOOL WITH ITS PARTICULARITY OF DETECTION FIELD BASED ON R-180 LINEAR ROTATION.
-align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+
 
 ## Roadmap
 
